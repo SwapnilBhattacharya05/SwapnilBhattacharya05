@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhattacharya05&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhattacharya05" /> </p>
 
-- 🌱 I’m currently learning **Javascript, MongoDB**
+- 🎓 I’m currently studying **Bachelors of Computer Applications(BCA)**
 
-- 💬 Ask me about **react,html,css**
+- 💬 Ask me about **REACT,HTML,CSS,JAVA,PYTHON,SQL**
 
 - 📫 How to reach me **swapnilb050203@gmail.com**
+
+- 🌱 Coding and Gaming in my free time
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/swapnil-bhattacharya-357ab527a/details/skills/](https://www.linkedin.com/in/swapnil-bhattacharya-357ab527a/details/skills/)
 
