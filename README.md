@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently studying **Bachelors of Computer Applications(BCA)**
 
-- 💬 Ask me about **REACT,HTML,CSS,JAVA,PYTHON,SQL**
+- 💬 Ask me about **REACT,HTML,CSS,JAVA,JS,PYTHON,SQL**
 
 - 📫 How to reach me **swapnilb050203@gmail.com**
 
