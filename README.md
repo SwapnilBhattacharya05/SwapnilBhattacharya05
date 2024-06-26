@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhattacharya05&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhattacharya05" /> </p>
 
-- 🎓 I’m currently studying **Bachelors of Computer Applications(BCA)**
+- 🎓 My Degree **Bachelors of Computer Applications(BCA)**
 
 - 💬 Ask me about **REACT,HTML,CSS,JAVA,JS,PYTHON,SQL**
 
