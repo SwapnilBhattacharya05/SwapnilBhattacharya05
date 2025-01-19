@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhattacharya05&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbhattacharya05" /> </p>
 
-- 🎓 My Degree **Bachelors of Computer Applications(BCA)**
+- 🎓 Degree Completed **Bachelors of Computer Applications(BCA)** (completed)
+
+- 🎓 My Degree **Masters in Science in Computer Applications(MSc(CA))**
 
 - 💬 Ask me about **REACT,HTML,CSS,JAVA,JS,PYTHON,SQL**
 
