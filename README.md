@@ -19,7 +19,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SwapnilBhattacharya05&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwapnilBhattacharya05/SwapnilBhattacharya05/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwapnilBhattacharya05/SwapnilBhattacharya05/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SwapnilBhattacharya05/SwapnilBhattacharya05/output/github-snake.svg" />
+</picture>
 ---
-[![](https://visitcount.itsvg.in/api?id=SwapnilBhattacharya05&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
