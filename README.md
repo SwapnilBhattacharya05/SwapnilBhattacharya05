@@ -97,15 +97,12 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 5px; justify-content: center;align-items: center">
-  <div>
-    <img src="https://streak-stats.demolab.com?user=SwapnilBhattacharya05&theme=synthwave&hide_border=true&border_radius=10" width="550" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SwapnilBhattacharya05&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" width="550" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilBhattacharya05&layout=compact&theme=synthwave&hide_border=true&border_radius=10" width="400" alt="Top Languages" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqZ3E1aGZkbGhuMGx5bDdrZzVlemNlaXV1NzJ1OTZrZGptYm50OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="400" height="199" style="border-radius: 10px" alt="Coding GIF" />
-  </div>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilBhattacharya05&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=SwapnilBhattacharya05&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=SwapnilBhattacharya05&theme=synthwave&hide_border=false)<br/>
+
 </div>
 
 ---
