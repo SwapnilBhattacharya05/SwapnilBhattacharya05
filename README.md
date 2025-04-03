@@ -12,8 +12,7 @@
       💻 <strong>Full Stack Developer</strong> with expertise in modern web technologies<br>
       🎮 <strong>Gamer</strong> at heart - love exploring virtual worlds<br>
       🌱 <strong>Constantly learning</strong> and building cool stuff<br>
-      🔭 <strong>Working on</strong>: Next.js projects and Three.js experiments<br>
-      💬 <strong>Ask me about</strong>: REACT, JavaScript, TailwindCSS, or any tech!<br>
+      💬 <strong>Ask me about</strong>: MONGODB, EXPRESS JS, REACT, NODE js or any tech!<br>
       📫 <strong>Portfolio</strong>: <a href="https://portfolio-nine-lovat-53.vercel.app/">Visit Here</a><br>
     </td>
     <td valign="center">
