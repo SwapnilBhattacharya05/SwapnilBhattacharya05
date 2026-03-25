@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E8AF&center=true&vCenter=true&width=550&lines=Hey+There%2C+I'm+Swapnil+👋;A+Full+Stack+Developer;Constantly+Learning+&+Building;Leveling+up+with+AWS+%26+Terraform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E8AE&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Swapnil!;A+Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -67,18 +67,13 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SwapnilBhattacharya05&bg_color=232836&title_color=00E8AF&text_color=ffffff&icon_color=00E8AF&border_color=009167&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilBhattacharya05&bg_color=232836&title_color=00E8AF&text_color=ffffff&icon_color=00E8AF&border_color=009167&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SwapnilBhattacharya05&background=232836&dates=ffffff&labels=00E8AF&name=ffffff&currStreakNum=00E8AF&sideNums=ffffff&currStreakLabel=00E8AF&sideLabels=ffffff&ring=00E8AF&fire=00E8AF&stroke=ffffff&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilBhattacharya05&amp;bg_color=232836&amp;title_color=00E8AF&amp;text_color=ffffff&amp;icon_color=00E8AF&amp;border_color=009167&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilBhattacharya05&bg_color=232836&title_color=00E8AF&text_color=ffffff&icon_color=00E8AF&border_color=009167&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  
+   <br>
+  
+  <img src="https://streak-stats.demolab.com/?user=SwapnilBhattacharya05&amp;background=232836&amp;dates=ffffff&amp;labels=00E8AF&amp;name=ffffff&amp;currStreakNum=00E8AF&amp;sideNums=ffffff&amp;currStreakLabel=00E8AF&amp;sideLabels=ffffff&amp;ring=00E8AF&amp;fire=00E8AF&amp;stroke=ffffff&amp;hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -86,7 +81,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwapnilBhattacharya05&theme=algolia&margin-w=15&row=2&column=4&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=SwapnilBhattacharya05&amp;theme=algolia&amp;margin-w=15&amp;row=2&amp;column=4&amp;no-bg=true&amp;no-frame=true" alt="Trophies" />
 </div>
 
 ---
